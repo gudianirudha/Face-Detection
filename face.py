@@ -1,4 +1,4 @@
-# Created by Airudh Gudi
+# Created by Anirudh Gudi
 import cv2
 import numpy as np
 
